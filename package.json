@@ -1,0 +1,27 @@
+{
+  "name": "node-kafka",
+  "version": "1.0.0",
+  "description": "node kafka demo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosmartin/node-kafka.git"
+  },
+  "keywords": [
+    "node",
+    "kafka"
+  ],
+  "author": "Martin Macharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosmartin/node-kafka/issues"
+  },
+  "homepage": "https://github.com/mosmartin/node-kafka#readme",
+  "dependencies": {
+    "kafkajs": "^1.16.0"
+  }
+}
